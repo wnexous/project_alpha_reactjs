@@ -1,0 +1,49 @@
+.InputField {
+    width: 100%;
+    max-width: 50rem;
+    min-width: 10rem;
+    margin-inline: auto;
+    align-items: center;
+    align-content: center;
+    border: 1px rgb(214, 214, 214) solid;
+    outline: none;
+    border-radius: 0.2rem;
+    height: 1.4rem;
+    margin-block: 0.4rem;
+    padding: 0.4rem;
+    padding-inline: 0.7rem;
+    color: rgba(0, 0, 0, 0.525);
+    overflow: visible;
+}
+
+.ButtonField {
+    outline: none;
+    border: none;
+    background-color: rgb(29, 105, 255);
+    color: white;
+    padding: 0.5rem;
+    border-radius: 0.4rem;
+    -webkit-transition: 0.3s;
+    padding-inline: 2rem;
+}
+
+
+input[type=password]:focus::-ms-reveal {
+    display: block;
+}
+
+.ButtonField:hover {
+    background-color: rgb(117, 117, 117);
+}
+
+::placeholder {
+    color: rgba(0, 0, 0, 0.525);
+}
+
+.centralize_normal {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    vertical-align: middle;
+    align-items: center;
+}

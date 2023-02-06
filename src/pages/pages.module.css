@@ -1,0 +1,58 @@
+.centralize_force {
+    width: 100%;
+    position: absolute;
+    display: inline-flex;
+    justify-content: center;
+    vertical-align: middle;
+    align-items: center;
+    height: 100%;
+}
+
+.centralize_normal {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    vertical-align: middle;
+    align-items: center;
+}
+
+.FormField {
+    margin: 2rem;
+    width: 100%;
+    max-width: 25rem;
+    display: block;
+    position: relative;
+    /* margin-inline: auto; */
+    justify-content: center;
+    align-items: center;
+    align-content: center;
+
+}
+
+.FormField_INSIDE {
+    background-color: rgba(0, 0, 0, 0.076);
+    border-radius: 0.4rem;
+    padding: 1.6rem;
+    margin-bottom: 1.2rem;
+
+}
+
+.FormField p {
+    text-align: center;
+    color: rgba(0, 0, 0, 0.525);
+}
+
+.logo {
+    width: 100%;
+    border-radius: 100rem;
+    margin-block: 1rem;
+    display: flex;
+    justify-content: center;
+}
+
+.logo img {
+    width: 7rem;
+    height: 7rem;
+    filter: saturate(0%);
+    opacity: 50%;
+}

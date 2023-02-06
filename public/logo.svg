@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Camada_2" data-name="Camada 2" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 216.62 200.48">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: url(#Gradiente_Alpha_2);
+      }
+    </style>
+    <linearGradient id="Gradiente_Alpha_2" data-name="Gradiente Alpha 2" x1="0" y1="100.24" x2="216.62" y2="100.24" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#9f61ea"/>
+      <stop offset=".51" stop-color="#6d72dc"/>
+      <stop offset="1" stop-color="#3b85ce"/>
+    </linearGradient>
+  </defs>
+  <g id="Camada_1-2" data-name="Camada 1">
+    <path class="cls-1" d="M216.62,200.48c-2.98-78.99-19.49-115.95-19.49-115.95-17.39-46.38-41.31-65.22-41.31-65.22C136.98,1.19,101.47-9.68,69.59,12.06c-31.89,21.74-47.1,63.77-47.1,63.77C-1.43,133.81,.02,200.48,.02,200.48H30.78s.43-6.27,.4-5.8c0,0,7.87-41.31,77.13-42.03,0,0,64.03-.72,76.79,42.03,.03,3.72-.04,5.8-.04,5.8h31.56Zm-63.69-67.4s-41.3-15.22-89.86,0c-16.93,5.31-28.04,12.69-28.05,12.7l-.19,.13c5.11-39.76,23.16-74.42,23.16-74.42,30.44-55.08,61.6-39.13,61.6-39.13,0,0,26.81,7.25,47.1,59.42,7.13,18.32,11.51,37.18,14.2,53.94-.91-.72-10.1-7.82-27.97-12.63Z"/>
+  </g>
+</svg>
