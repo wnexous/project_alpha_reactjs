@@ -16,7 +16,10 @@ export default function Login() {
           <img src="/logo.svg" />
         </span>
         <div className={style.FormField_INSIDE}>
-          <InputField placeholder="Nome" />
+          <InputField
+            placeholder="Nome de usuário"
+            config={["only-string", "only-number"]}
+          />
           <InputField placeholder="Senha" type="password" config={[]} />
         </div>
         <div className={style.centralize_normal}>
